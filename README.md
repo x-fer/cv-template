@@ -1,23 +1,24 @@
-# (work in progress) xfer-cv-template
-[HR] Predlozak za zivotopis za studente
+# xfer-cv-template
+Predložak životopisa za studente
 
-## TL;DR
+Hoj, ako si:
+- student IT-a,
+- želiš se prijaviti za praksu ili posao,
+- razmišljaš kako napraviti svoj životopis,
 
-(TBD: za koga je ovaj repos namijenjen)
+ovaj repozitorij napravljen je za tebe!
 
-### Zasto
+Tu ćes pronaći datoteke i savjete koje ti mogu pomoći da napraviš/unaprijediš svoj životopis.
 
-- pomoci studentima da zgrabe priliku i dobiju iskustvo u industriji
+### Motivacija
 
-### Sto
+- Naš fakultet je kvalitetan koliko su kvalitetni njegovi *stanovnici*
+- Osjetiti industriju neprocjenjivo je iskustvo i znanje za studente
+- Studenti često misle manje o sebi i nesigurni su napraviti prvi korak
 
-- probiti led, eliminirati tu prepreku prije slanja aplikacije
 
-### Kako
+- Želimo potaknuti i olakšati prve korake
 
-- predlozak za CV koji se lako moze popuniti stvarnim podacima
 
-## Savjeti
-
-- kako smo napravili
-- mozemo ovdje napisati savjete koje smo koristili pri gradnji
+- U ovom repozitoriju dajemo primjer CV-a za prijavu na IT poziciju
+- Predlozak je *editabilan* - lako se može popuniti stvarnim informacijama
