@@ -1,0 +1,127 @@
+\documentclass[a4paper]{article}
+
+\usepackage[
+    top=0.79in,
+    bottom=0.79in,
+    left=0.79in,
+    right=0.79in,
+]{geometry}
+
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{array}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{10pt}
+\newlength{\tablewidth}
+
+\setlist[itemize]{topsep=0em, itemsep=0.0em}
+\setlist[itemize,1]{before=\vspace{-1em}}
+
+\newenvironment{period}[2]{%
+\newcommand{\sarma}{#2}%
+\setlength{\tablewidth}{\linewidth}
+\addtolength{\tablewidth}{-2\tabcolsep}
+\begin{tabular}{@{}p{0.75\tablewidth}>{\raggedleft\arraybackslash}p{0.25\tablewidth}@{}}%
+#1 \newline
+\begin{itemize}
+}{%
+\end{itemize} & \sarma \\%
+\end{tabular}\\
+}
+
+\newenvironment{skills}{%
+\setlength{\tablewidth}{\linewidth}
+\addtolength{\tablewidth}{-2\tabcolsep}
+\begin{tabular}{@{}p{0.15\tablewidth}p{0.85\tablewidth}@{}}
+}{%
+\end{tabular}
+}
+
+\titleformat{\section}{\uppercase}{}{0pt}{}[{\vspace{0.5em}\titlerule}]
+\titleformat{\subsection}{\bf}{}{0pt}{}{}
+\titlespacing{\section}{0pt}{1em}{0.5em}
+\titlespacing{\subsection}{0pt}{0pt}{0.1em}
+
+\begin{document}
+\fontfamily{\sfdefault}
+\selectfont
+
+\begin{minipage}{.5\textwidth}
+\LARGE{Ime Prezime}\\
+\normalsize{5 Beethovenova ulica, 21 000 Split, Croatia}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+\raggedleft
+ime.prezime@gmail.com \\
++385 90 000 0000 \\
+github.com/iprezime
+\end{minipage}
+
+\vspace{1em}
+
+\section{work experience}
+\subsection{Firma d.o.o., Zagreb, Croatia}
+\begin{period}{Software engineering intern}{Jun 2012 -- Sep 2012}
+    \item 
+        worked on improving copyright infringement detection system
+        \begin{itemize}
+            \item Java, Git, Linux
+            \item awarded for having best test code coverage out of all (10) interns
+        \end{itemize}
+\end{period}
+\subsection{University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia}
+\begin{period}{Teaching assistant}{Oct 2008 -- May 2009}
+    \item Digital Logic
+    \item Algorithms and Data Structures
+\end{period}
+\begin{period}{Team leader}{Sep 2011 -- Jan 2012}
+    \item managed a team of 10 students in \textit{Software Design} class project
+\end{period}
+
+\section{education}
+\subsection{University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia}
+\begin{period}{Pursuing MSc in Computer Science}{Sep 2011 -- May 2013\linebreak(expected)}
+    \item relevant courses:
+        \textit{Machine Learning},
+        \textit{Pattern Recognition},
+        \textit{Computer Vision},
+        \textit{Mathematical logic and computability}
+\end{period}
+\begin{period}{BSc in Computer Science}{Sep 2008 -- Jul 2011}
+    \item thesis:
+        \textit{GPU implementation of a space and time optimal parallel sequence alignment algorithm}
+    \item completed optional course \textit{Competitive programming} (rank 3/40)
+\end{period}
+
+\section{major achievements}
+\begin{skills}
+    C programming   &   ranked 2/50 at 2010 Elektrijada contest (internation electrical engineering students' 
+                        \nobreak{gathering}) \\
+    English         &   ranked 3/30 at 2007 national competition
+\end{skills}
+
+\section{technical skills}
+\begin{skills}
+    Intermediate &
+    \begin{itemize}
+        \item \textbf{Java (SE, EE)} -- used on university courses and various projects
+        \item \textbf{PHP} -- used on university courses and various projects
+        \item \textbf{Linux} -- used at firma d.o.o.
+    \end{itemize} \\
+    Basic &
+    \begin{itemize}
+        \item \textbf{C++} -- used at university courses
+        \item \textbf{GIT} -- used at Firma d.o.o.
+        \item \textbf{Python} -- used at university courses
+    \end{itemize} \\
+\end{skills}
+
+\section{other skills and interests}
+\begin{skills}
+    Languages & Croatian (native), English (fluent), Italian (basic) \\
+    Interests & Graph theory, Cycling \\
+\end{skills}
+
+\end{document}
