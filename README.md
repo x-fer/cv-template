@@ -1,17 +1,17 @@
 # xfer-cv-template - Predložak životopisa za studente
 
 * [xfer-cv-template](#xfer-cv-template)
-  * [Kako koristiti predloške?](#kako-koristiti-predloske)
-    * [Word/Open Document predložak](#word-open-document-predlozak)
-    * [Latex predložak](#latex-predlozak)
-  * [Česte pogreške kod pisanja životopisa](#ceste-pogreske-kod-pisanja-zivotopisa)
-    * [Životopis mora stati na jednu stranicu](#zivotopis-mora-stati-na-jednu-stranicu)
-    * [Staviti važnije stvari na prvo mjesto](#staviti-vaznije-stvari-na-prvo-mjesto)
-    * [Detaljnije opišite svoja postignuća](#detaljnije-opisite-svoja-postignuca)
-    * [Kod navođenja znanja tehnologija, budite iskreni](#kod-navodjenja-znanja-tehnologija-budite-iskreni)
+  * [Kako koristiti predloške?](#kako-koristiti-predloške)
+    * [Word/Open Document predložak](#word-open-document-predložak)
+    * [Latex predložak](#latex-predžozak)
+  * [Česte pogreške kod pisanja životopisa](#ceste-pogreške-kod-pisanja-životopisa)
+    * [Životopis mora stati na jednu stranicu](#životopis-mora-stati-na-jednu-stranicu)
+    * [Staviti važnije stvari na prvo mjesto](#staviti-važnije-stvari-na-prvo-mjesto)
+    * [Detaljnije opišite svoja postignuća](#detaljnije-opišite-svoja-postignuća)
+    * [Kod navođenja znanja tehnologija, budite iskreni](#kod-navođjenja-znanja-tehnologija-budite-iskreni)
     * [Dokument mora biti funkcionalan](#dokument-mora-biti-funkcionalan)
-  * [Zašto ovakav predložak?](#zasto-ovakav-predlozak)
-    * [Zašto ovaj repozitorij postoji?](#zasto-ovaj-repozitorij-postoji)
+  * [Zašto ovakav predložak?](#zašto-ovakav-predložak)
+    * [Zašto ovaj repozitorij postoji?](#zašto-ovaj-repozitorij-postoji)
       * [Zahvale](#zahvale)
 
 Hoj, ako si
