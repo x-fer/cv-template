@@ -79,5 +79,6 @@ Studenti često misle manje o sebi i boje se napraviti prvi korak prema ljetnoj 
 
 Autori:
 - Anton Grbin, Bruno Rahle, Iva Miholić, Marija Mikulić, Marin Tomić
+
 Pomogli u izradi:
 - Alen Rakipović, Andrija Milićević, Dino Šantl, Goran Gašić, Goran Žužic, Filip Pavetić, Igor Čanadi, Igor Jerković, Ivo Sluganović, Jelena Cvitanović, Matej Ferenčević, Tomislav Grbin, Zrinka Gavran
