@@ -14,7 +14,7 @@
     * [Zašto ovaj repozitorij postoji?](#zašto-ovaj-repozitorij-postoji)
       * [Zahvale](#zahvale)
 
-Hoj, ako si
+Hej, ako si
 - student računarstva ili elektrotehnike,
 - želiš se prijaviti za praksu ili posao
 - ili samo razmišljaš kako napraviti svoj životopis,
