@@ -3,7 +3,7 @@
 * [xfer-cv-template](#xfer-cv-template)
   * [Kako koristiti predloške?](#kako-koristiti-predloške)
     * [Word/Open Document predložak](#word-open-document-predložak)
-    * [Latex predložak](#latex-predžozak)
+    * [LaTeX predložak](#latex-predložak)
   * [Česte pogreške kod pisanja životopisa](#ceste-pogreške-kod-pisanja-životopisa)
     * [Životopis mora stati na jednu stranicu](#životopis-mora-stati-na-jednu-stranicu)
     * [Staviti važnije stvari na prvo mjesto](#staviti-važnije-stvari-na-prvo-mjesto)
@@ -32,8 +32,8 @@ Kako biste preuzeli datoteke sa _githuba_, koristite program git ili gumbe na st
 Open Document Format (odt) rašireni je format tekstualne datoteke koji se može otvoriti u većini programa za obradu teksta.
 Datoteku otvorite u svom omiljenom programu za obradu teksta (.*Office) i popunite svojim podacima. Prije slanja CV-ja na prijave za posao, preporučamo stvoriti pdf verziju datoteke. 
 
-### Latex predložak
-Latex je jezik i sustav za izradu dokumenata. Za razliku od Microsoft Worda, Open Office Worda ili drugih programa za izradu dokumenata, u Latexu se jednostavno može oblikovati grafički složen dokument poput znastvenog rada, znanstvenog udžbenika i slično. Svo formatiranje u Latexu definira se naredbama u datoteci ekstenzije tex. Za konačni rezultat, želimo takvu datoteku prevesti u pdf. Najlakše je koristiti alat za online izradu Latex dokumenata [sharelatex](https://www.sharelatex.com/). Za obradu Latex dokumenata također postoje i brojne desktop aplikacije poput texmakera i ostalih [(više ovdje).](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
+### LaTeX predložak
+LaTeX je jezik i sustav za izradu dokumenata. Za razliku od Microsoft Worda, Open Office Worda ili drugih programa za izradu dokumenata, u LaTeXu se jednostavno može oblikovati grafički složen dokument poput znanstvenog rada, znanstvenog udžbenika i slično. Svo formatiranje u LaTeXu definira se naredbama u datoteci ekstenzije tex. Za konačni rezultat, želimo takvu datoteku prevesti u pdf. Najlakše je koristiti alat za online izradu LaTeX dokumenata [sharelatex](https://www.sharelatex.com/). Za obradu LaTeX dokumenata također postoje i brojne desktop aplikacije poput texmakera i ostalih [(više ovdje).](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
 
 ## Česte pogreške kod pisanja životopisa
 
@@ -44,7 +44,7 @@ Pri njegovom pisanju, neka vam glavna misao vodilja bude da osoba koja će čita
 
 Napišite sve što želite prikazati u svom životopisu. Kad ste gotovi, ukoliko životopis ima više od jedne stranice, izbacujte manje bitne stavke dok nije sve stalo na jednu stranicu.
 
-### Staviti važnije stvari na prvo mjesto
+### Stavite važnije stvari na prvo mjesto
 
 Ukoliko ste tri mjeseca radili kao npr. prodavač sladoleda na plaži ili operater u call centru, ne morate to upisati u životopis kao radno iskustvo jer to nije bitna stavka za zapošljavanje u nekoj softverskoj firmi. Ako nemate prethodnog iskustva u struci, bolje je napisati kako ste uspješno vodili ili bili dio tima iz nekog projekta na fakultetu i ukratko opisati taj projekt te kako ste mu vi pridonijeli.
 
@@ -59,7 +59,7 @@ Kada pišete životopis, imajte na umu da će to za vašeg sugovornika biti jedi
 
 ### Dokument mora biti funkcionalan
 
-Posebno provjerite rade li svi url-ovi u životopisu ispravno te koristite _službenu_ mail adresu. Umetanje slike u životpis također se ne preporuča jer ista zauzima prostor dok ne donosi nikakve korisne informacije čitatelju.
+Posebno provjerite rade li svi url-ovi u životopisu ispravno te koristite _službenu_ mail adresu. Umetanje slike u životopis također se ne preporuča jer ista zauzima prostor dok ne donosi nikakve korisne informacije čitatelju.
 
 ## O ovom predlošku
 
@@ -81,4 +81,4 @@ Autori:
 - Anton Grbin, Bruno Rahle, Iva Miholić, Marija Mikulić, Marin Tomić
 
 Pomogli u izradi:
-- Alen Rakipović, Andrija Milićević, Dino Šantl, Goran Gašić, Goran Žužic, Filip Pavetić, Igor Čanadi, Igor Jerković, Ivo Sluganović, Jelena Cvitanović, Matej Ferenčević, Tomislav Grbin, Zrinka Gavran
+- Alen Rakipović, Andrija Milićević, Dino Šantl, Goran Gašić, Goran Žužic, Filip Pavetić, Igor Čanadi, Igor Jerković, Ivo Sluganović, Jelena Cvitanović, Matej Ferenčević, Tomislav Grbin, Zrinka Gavran, Paula Gombar
